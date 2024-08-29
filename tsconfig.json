@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "~apps/*": ["apps/*"],
+        "~fe-sfreport-client/*": ["fe-sfreport-client/*"],
+      }
+    },
+    "exclude": ["node_modules", "dist"]
+}
+  
