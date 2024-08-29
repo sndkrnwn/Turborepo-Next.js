@@ -1,4 +1,5 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {};
+import withTM from 'next-transpile-modules';
+
+const nextConfig = withTM(['fe-sfreport-client']);
 
 export default nextConfig;

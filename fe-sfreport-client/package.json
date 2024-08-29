@@ -1,0 +1,17 @@
+{
+  "name": "fe-sfreport-client",
+  "version": "1.0.0",
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "scripts": {
+    "lint": "eslint . --max-warnings 0",
+    "generate:component": "turbo gen react-component"
+  },
+  "devDependencies": {
+    "@turbo/gen": "^1.12.4"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
