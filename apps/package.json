@@ -1,6 +1,7 @@
 {
-  "name": "web",
-  "version": "0.1.0",
+  "name": "fe-sfreport",
+  "version": "1.0.0",
+  "author": "@sandy.kurniawan / @sndkrnwn",
   "private": true,
   "scripts": {
     "dev": "next dev --turbo",
@@ -15,8 +16,6 @@
     "react-dom": "19.0.0-rc-f994737d14-20240522"
   },
   "devDependencies": {
-    "@repo/eslint-config": "*",
-    "@repo/typescript-config": "*",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",

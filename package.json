@@ -1,5 +1,7 @@
 {
-  "name": "Turborepo-Next.js",
+  "name": "report-designer",
+  "version": "1.0.0",
+  "author": "@sandy.kurniawan / @sndkrnwn",
   "private": true,
   "scripts": {
     "build": "turbo build",
