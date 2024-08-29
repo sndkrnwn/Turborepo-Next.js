@@ -1,4 +1,4 @@
-import { Button } from "fe-sfreport-client/antam/prompt/button";
+import { Button } from "~fe-sfreport-client/antam/prompt/button";
 
 import styles from "./page.module.css";
 

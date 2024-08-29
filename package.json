@@ -19,8 +19,5 @@
   "workspaces": [
     "apps",
     "fe-sfreport-client"
-  ],
-  "dependencies": {
-    "next-transpile-modules": "^10.0.1"
-  }
+  ]
 }
